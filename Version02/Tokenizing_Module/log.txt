@@ -1,0 +1,42 @@
+*** Start of Tokenizing Words Demo ***
+
+Type a few words separated by space (q - to quit):
+hello world programming
+Token #1: 'hello'
+Token #2: 'world'
+Token #3: 'programming'
+
+Type a few words separated by space (q - to quit):
+this is a test
+Token #1: 'this'
+Token #2: 'is'
+Token #3: 'a'
+Token #4: 'test'
+
+Type a few words separated by space (q - to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+*** Start of Tokenizing Phrases Demo ***
+
+Type a few phrases separated by comma (q - to quit):
+apple,banana,orange
+Token #1: 'apple'
+Token #2: 'banana'
+Token #3: 'orange'
+
+Type a few phrases separated by comma (q - to quit):
+cat,dog,elephant
+Token #1: 'cat'
+Token #2: 'dog'
+Token #3: 'elephant'
+
+Type a few phrases separated by comma (q - to quit):
+hello,,world
+Token #1: 'hello'
+Token #2: '' (empty token due to consecutive commas)
+Token #3: 'world'
+
+Type a few phrases separated by comma (q - to quit):
+q
+*** End of Tokenizing Phrases Demo ***

@@ -1,0 +1,18 @@
+*** Start of Tokenizing Words Demo ***
+
+Type a few words separated by space (q - to quit):
+hello world programming
+Token #1: 'hello'
+Token #2: 'world'
+Token #3: 'programming'
+
+Type a few words separated by space (q - to quit):
+this is a test
+Token #1: 'this'
+Token #2: 'is'
+Token #3: 'a'
+Token #4: 'test'
+
+Type a few words separated by space (q - to quit):
+q
+*** End of Tokenizing Words Demo ***

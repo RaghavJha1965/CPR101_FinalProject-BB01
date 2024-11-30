@@ -1,0 +1,26 @@
+*** Start of Converting Strings to int Demo ***
+
+Type the int numeric string (q - to quit): 
+abc
+Converted number is 0
+
+Type the int numeric string (q - to quit): 
+1234
+Converted number is 1234
+
+Type the int numeric string (q - to quit): 
+123abc
+Converted number is 123
+
+Type the int numeric string (q - to quit): 
+1 2 3
+Converted number is 1
+
+Type the int numeric string (q - to quit): 
+abc123
+Converted number is 0
+
+Type the int numeric string (q - to quit): 
+q
+
+*** End of Converting Strings to int Demo ***

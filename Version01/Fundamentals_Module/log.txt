@@ -1,0 +1,31 @@
+*** Start of Indexing Strings Demo ***
+
+Type not empty string (q - to quit):
+abc123!@
+Type the character position within the string:
+2
+The character found at 2 position is 'c'
+
+Type not empty string (q - to quit):
+xyz
+Type the character position within the string:
+10
+Too big... Position reduced to max. available
+The character found at 2 position is 'z'
+
+Type not empty string (q - to quit):
+(Type a newline character)
+Type the character position within the string:
+4
+The character found at -1 position is 'ÿ' (Garbage value)
+
+Type not empty string (q - to quit):
+abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz12345
+Type the character position within the string:
+5
+The character found at 5 position is 'f'
+
+Type not empty string (q - to quit):
+q
+
+*** End of Indexing Strings Demo ***
