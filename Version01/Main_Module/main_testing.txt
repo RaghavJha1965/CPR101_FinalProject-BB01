@@ -1,0 +1,119 @@
+--- String Operations Program ---
+
+1. Fundamentals
+2. Manipulating
+3. Converting
+4. Tokenizing
+5. Exit
+Enter your choice: 1
+
+*** Start of Indexing Strings Demo ***
+
+Type not empty string (q - to quit):
+Programming is fun
+Type the character position within the string:
+99
+Too big... Position reduced to max. available
+The character found at 17 position is 'n'
+
+Type not empty string (q - to quit):
+q
+*** End of Indexing Strings Demo ***
+
+
+--- String Operations Program ---
+
+1. Fundamentals
+2. Manipulating
+3. Converting
+4. Tokenizing
+5. Exit
+Enter your choice: 2
+
+*** Start of Concatenating Strings Demo ***
+
+Type the 1st string (q - to quit):
+123
+Type the 2nd string:
+456
+Concatenated string is '123456'
+
+Type the 1st string (q - to quit):
+abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz123456789
+Type the 2nd string:
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Concatenated string is 'abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+
+--- String Operations Program ---
+
+1. Fundamentals
+2. Manipulating
+3. Converting
+4. Tokenizing
+5. Exit
+Enter your choice: 3
+
+*** Start of Converting Strings to Integers Demo ***
+
+Type the int numeric string (q - to quit):
+23hello12
+Converted number is 23
+
+Type the int numeric string (q - to quit):
+ hello 123
+Converted number is 0
+
+Type the int numeric string (q - to quit):
+q
+*** End of Converting Strings to Integers Demo ***
+
+
+--- String Operations Program ---
+
+1. Fundamentals
+2. Manipulating
+3. Converting
+4. Tokenizing
+5. Exit
+Enter your choice: 4
+
+*** Start of Tokenizing Words Demo ***
+
+Type a few words separated by space (q - to quit):
+this is a test
+Token #1: 'this'
+Token #2: 'is'
+Token #3: 'a'
+Token #4: 'test'
+
+Type a few words separated by space (q - to quit):
+q
+*** End of Tokenizing Words Demo ***
+
+*** Start of Tokenizing Phrases Demo ***
+
+Type a few phrases separated by comma (q - to quit):
+apple,banana,orange
+Token #1: 'apple'
+Token #2: 'banana'
+Token #3: 'orange'
+
+Type a few phrases separated by comma (q - to quit):
+q
+*** End of Tokenizing Phrases Demo ***
+
+
+--- String Operations Program ---
+
+1. Fundamentals
+2. Manipulating
+3. Converting
+4. Tokenizing
+5. Exit
+Enter your choice: 5
+Exiting the program. Goodbye!

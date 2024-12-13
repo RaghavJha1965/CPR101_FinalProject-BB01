@@ -1,0 +1,15 @@
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+Hello
+Type the 2nd string:
+World
+Concatenated string is 'HelloWorld'
+Type the 1st string (q - to quit):
+ThisIsAVeryLongString
+Type the 2nd string:
+ExceedsBufferLimit
+Concatenated string is 'ThisIsAVeryLongStringExceedsBufferLimit'
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+

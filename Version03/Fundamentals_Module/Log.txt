@@ -1,0 +1,21 @@
+*** Start of Copying Strings Demo ***
+Destination string is reset to empty.
+Type a source string (q - to quit):
+Hello World!
+New destination string is 'Hello World!'
+Destination string is reset to empty.
+Type a source string (q - to quit):
+This string is long enough to test truncation and buffer limits in the copying process.
+New destination string is 'This string is long enough to test truncation and buffer limits in the co'
+Destination string is reset to empty.
+Type a source string (q - to quit):
+12345
+New destination string is '12345'
+Destination string is reset to empty.
+Type a source string (q - to quit):
+@
+New destination string is '@'
+Destination string is reset to empty.
+Type a source string (q - to quit):
+q
+*** End of Copying Strings Demo ***

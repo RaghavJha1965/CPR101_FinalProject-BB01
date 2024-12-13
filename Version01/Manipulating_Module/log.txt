@@ -1,0 +1,29 @@
+*** Start of Concatenating Strings Demo ***
+
+Type the 1st string (q - to quit):
+***
+Type the 2nd string:
+$$$
+Concatenated string is '***$$$'
+
+Type the 1st string (q - to quit):
+aa
+Type the 2nd string:
+bb
+Concatenated string is 'aabb'
+
+Type the 1st string (q - to quit):
+abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz123456789
+Type the 2nd string:
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Concatenated string is 'abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+
+Type the 1st string (q - to quit):
+
+Type the 2nd string:
+xyz
+Concatenated string is 'xyz'
+
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***

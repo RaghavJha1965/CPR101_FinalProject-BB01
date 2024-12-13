@@ -1,0 +1,13 @@
+*** Start of Converting Strings to double Demo ***
+Type the double numeric string (q - to quit):
+123.45
+Converted number is 123.450000
+Type the double numeric string (q - to quit):
+   678.90
+Converted number is 678.900000
+Type the double numeric string (q - to quit):
+hello123
+Invalid numeric string. Please try again.
+Type the double numeric string (q - to quit):
+q
+*** End of Converting Strings to double Demo ***

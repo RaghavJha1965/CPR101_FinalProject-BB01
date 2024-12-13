@@ -1,0 +1,108 @@
+
+Choose a functionality to test:
+1. Fundamentals (Copying Strings)
+2. Tokenizing Strings
+3. Manipulating Strings
+4. Converting Strings
+5. Exit
+Enter your choice: 1
+
+*** Start of Copying Strings Demo ***
+Destination string is reset to empty.
+Type a source string (q - to quit):
+Hello, World!
+New destination string is 'Hello, World!'
+Destination string is reset to empty.
+Type a source string (q - to quit):
+This is a very long string that tests truncation in the copying process.
+New destination string is 'This is a very long string that tests truncation in the copying process'
+Destination string is reset to empty.
+Type a source string (q - to quit):
+12345
+New destination string is '12345'   
+Destination string is reset to empty.
+Type a source string (q - to quit):
+@
+New destination string is '@'
+Destination string is reset to empty.
+Type a source string (q - to quit):
+q
+*** End of Copying Strings Demo ***
+
+Choose a functionality to test:
+1. Fundamentals (Copying Strings)
+2. Tokenizing Strings
+3. Manipulating Strings
+4. Converting Strings
+5. Exit
+Enter your choice: 2
+
+*** Start of Tokenizing Demo ***
+Type a few words separated by commas or dots (q - to quit):
+word1,word2.word3
+Token #1 is 'word1'
+Token #2 is 'word2'
+Token #3 is 'word3'
+Type a few words separated by commas or dots (q - to quit):
+one,,two,,,three
+Token #1 is 'one'
+Token #2 is 'two'
+Token #3 is 'three'
+Type a few words separated by commas or dots (q - to quit):
+q
+*** End of Tokenizing Demo ***
+
+Choose a functionality to test:
+1. Fundamentals (Copying Strings)
+2. Tokenizing Strings
+3. Manipulating Strings
+4. Converting Strings
+5. Exit
+Enter your choice: 3
+
+*** Start of Concatenating Strings Demo ***
+Type the 1st string (q - to quit):
+Hello
+Type the 2nd string:
+World
+Concatenated string is 'HelloWorld'
+Type the 1st string (q - to quit):
+LongString
+Type the 2nd string:
+AnotherLongString
+Concatenated string is 'LongStringAnotherLongString'
+Type the 1st string (q - to quit):
+q
+*** End of Concatenating Strings Demo ***
+
+Choose a functionality to test:
+1. Fundamentals (Copying Strings)
+2. Tokenizing Strings
+3. Manipulating Strings
+4. Converting Strings
+5. Exit
+Enter your choice: 4
+
+*** Start of Converting Strings to double Demo ***
+Type the double numeric string (q - to quit):
+123.45
+Converted number is 123.450000
+Type the double numeric string (q - to quit):
+   678.90
+Converted number is 678.900000
+Type the double numeric string (q - to quit):
+hello123
+Invalid numeric string. Please try again.
+Type the double numeric string (q - to quit):
+q
+*** End of Converting Strings to double Demo ***
+
+Choose a functionality to test:
+1. Fundamentals (Copying Strings)
+2. Tokenizing Strings
+3. Manipulating Strings
+4. Converting Strings
+5. Exit
+Enter your choice: 5
+
+Exiting program. Goodbye!

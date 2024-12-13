@@ -1,0 +1,23 @@
+*** Start of Tokenizing Demo ***
+Type a few words separated by commas or dots (q - to quit):
+word1,word2.word3
+Token #1 is 'word1'
+Token #2 is 'word2'
+Token #3 is 'word3'
+Type a few words separated by commas or dots (q - to quit):
+hello,,world...this.is.a.test
+Token #1 is 'hello'
+Token #2 is 'world'
+Token #3 is 'this'
+Token #4 is 'is'
+Token #5 is 'a'
+Token #6 is 'test'
+Type a few words separated by commas or dots (q - to quit):
+,leading,,and,,trailing,,delimiters,
+Token #1 is 'leading'
+Token #2 is 'and'
+Token #3 is 'trailing'
+Token #4 is 'delimiters'
+Type a few words separated by commas or dots (q - to quit):
+q
+*** End of Tokenizing Demo ***
